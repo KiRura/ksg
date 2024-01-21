@@ -80,7 +80,7 @@
 ### 柔道
 [良い感じの見た目](https://kumaben.com/judo13)  
 [字ちっちゃいやつ](https://www.jca.apc.org/praca/takeda/number4S/S020731.html)  
-[遺族のブログ](http://blog.livedoor.jp/sai0918/archives/51338576.html)
+[遺族のブログ](http://blog.livedoor.jp/sai0918/archives/51338576.html) [保存用](./ksg-izoku.md)
 
 - 柔道の合宿中、顧問が頭痛、悪心や食欲不振を訴えていた生徒をできるだけ練習に参加するよう促したり、医療機関に受診を勧めることをしなかったりした
 - 最終日も生徒は体調不良であったが、顧問は「最後だから練習に参加してはどうか」と練習に誘い、体落としで生徒を強く打ち付けた
