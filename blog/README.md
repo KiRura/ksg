@@ -2,6 +2,11 @@
 
 http://blog.livedoor.jp/sai0918
 
+## 一気読み用
+
+大体時系列順に並べられていると思います。多分。  
+https://kirura.vercel.app/ksg/blog
+
 ## 目次(書き途中)
 
 - [2009年](./2009)
